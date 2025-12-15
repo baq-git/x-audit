@@ -1,0 +1,4 @@
+id,tweetURL,shouldDelete
+1,x.com/tweets/1,true
+append,x.com/tweets/append,true
+appendWithoutNewLine,x.com/tweets/append_without_new_line,true

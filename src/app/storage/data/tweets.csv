@@ -1,0 +1,96 @@
+id,text
+1991960100853129582,"@Qhuesten (And by ""not declared"" I mean after the parameter list... there were no type declarations inside the actual parameter list)."
+1991961062653190334,@slimjimmy_dev Unwrap is no different then assert. Could have happened in any language.
+1991966511905566734,"@locust9 Imagine a game like GTA, but you are a SQUIRREL and the cars are actually MADE OUT OF LICORICE"
+1991966983181774856,Men are the real romantics
+1991967306113810561,@Jonathan_Blow https://t.co/WpRJcrUpUC
+1991967507075465261,@eloffd @slimjimmy_dev Asserts get turned off in production almost always. But code would have then crashed on trying to use whatever the assert was warning about.
+1991968682076148030,"@Jonathan_Blow if only others in positions similar to yourself would also be so willing to speak up Mr Blow, cus that guy is a fucking asshole"
+1991968942332751943,@SeedOilDsrspctr It's honestly a great argument for why some people should learn to be quiet. She should have never had a convo where she said things like that within earshot of him. Sorry but if you want an actual man you need to act like an actual lady and vice versa.
+1991976625446228019,"@Jonathan_Blow Computer Science gang, what's going on here? https://t.co/2ELsICCZKS"
+1991978270439739406,@hectavex Nobody pointed out the obvious problem in the first tweet? Amazing.
+1991978729959301629,"@Mike_Preston17 The point being, that his ""joke"" does not even make sense if one knows the history of C, which he doesn't, despite pretending to know a lot about programming. But you do you, go ahead and keep doing all the incredibly successful stuff you are doing."
+1991978866588647868,"@scuba356255 I haven't seen most of his posts, but every one that I have seen has had this same ""wtf"" property to it."
+1991980073801633861,"This is absolutely not at all, in any way, the correct solution to the problem.
+
+https://t.co/3ecIvbgIpE"
+1991980351980544363,"If you're on Windows, stop using Microsoft's File Explorer. It's terrible and gets worse every few months. Switch to File Pilot, it feels tremendously better, and it's free for now at least!
+
+https://t.co/YkDYSDl9BJ"
+1991980791770018215,@Jonathan_Blow This is getting hilarous.
+1991981535575306563,"@hectavex It would take a PhD thesis to make File Manager faster, we must therefore preload it."
+1991981829851951239,"@Jonathan_Blow @hectavex I expect a two hour video demonstrating a newer, faster file explorer from Casey."
+1991982144609243584,@Jonathan_Blow https://t.co/xelmfkXRKI
+1991983286097416424,@Jonathan_Blow Isn’t I defined as a int if you omit to declare it ?
+1991986881417154825,"@PoisonForGrok @hectavex He does not have to, because File Pilot exists."
+1991994954386973139,@StephenFleming a.k.a. “Leaders don’t get to have bad days.”
+1992002060972437956,@Jonathan_Blow hi mr blow am I a larper too?
+1992007740831768607,@Jonathan_Blow K&amp;R? Really?
+1992017791638249825,"@Jonathan_Blow Focusing on whether this is authentic 1972 code is irrelevant.
+
+Needing to handle items == NULL as an input would not be necessary in a language with non-default-nullable pointers, or even a language with references like C++."
+1992047430234431591,@RoseSilicon The OP was talking about C in 1972; what else would you suggest?
+1992047889380692392,@joe2_van No; there has to be some declaration of the variable.
+1992049071054578141,"@vaxryy I don’t know, do you pretend to be knowledgeable about C and C++ but also make statements implying that C did not change between 1972 and 2025? If not I wouldn’t worry about it…"
+1992049326252806262,@StokeWillie Jokes have to at least remotely make sense to be funny. This one does not.
+1992049703887028394,@ClancyKevi57388 LISP was memory-safe and predates C. None of these ideas are new.
+1992051548143382818,"@AaronGeneric @SeedOilDsrspctr She knew what she was doing when she said that in front of her friends. She just thought there would be enough plausible deniability, or the guy would have less self-esteem."
+1992066427839258742,"Just took @vkrajacic's filepilot's for a run. It makes Windows feel... modern ?
+
+We should get together, buy Windows from Microsoft, and rewrite it.
+
+link: https://t.co/Gg1gZkluvl
+
+Credit to @ryanjfleury and @Jonathan_Blow for promoting filepilot.
+
+(This is not an ad, and I don't know the author.)"
+1992074042896273902,"it's a file tree, you are showing dozens of files at a time, wtf do you mean you need to preload...
+
+what the fuck is happening in windows land"
+1992074795983487250,"@ChrisRozenbachs asserts are incredible 
+i use them non stop now"
+1992096001440833976,@lemire @vkrajacic @ryanjfleury Interesting picture! Imagine if everything in Windows were improved by as much as File Pilot is better than File Explorer...
+1992110394903556247,"@ThePrimeagen The problem is how it gets metadata to act on the files not the files itself. 
+
+Windows explorer does vastly more than finder or anything on Linux, just as the start menu with jump lists and more does way more than the dock or gnome’s lazy shell."
+1992240902899953887,"@ThePrimeagen @ChrisRozenbachs They are one of the most useful tools in programming. I think beginning programmers shy away from them because of the pain of having errors happen, but of course it's much better than stuff being silently wrong."
+1992242445124612410,"@Jonathan_Blow @ThePrimeagen Yeah, my take is that once a bug occurs later in the code, it becomes much easier to narrow down where it came from. Is that correct?
+Have you done a video on this with game programming?"
+1992260201337262191,"@Jonathan_Blow @ThePrimeagen @ChrisRozenbachs It'd be interesting if assert had a more hierarchical approach like type/invariant gates in JIT, where if the invariant for a type specialization for ex. is not met, you're kicked back to interpreted mode. You throw an assert &amp; catch it up the call stack. What should we call it🤔"
+1992298592024039566,"RT @thdxr: it's so embarrassing when software engineers act like someone is getting unpaid labor out of them
+
+""this company interviewed me…"
+1992307068750200928,"When you're trying to solve a bug, and the process is slow and takes a long time, often it's because you're confused, and some thing that you thought was true was actually not true, and it can take a long time to figure that out. Assertions reduce this kind of situation drastically, both in the evolution of the code (because things you thought were true, but weren't, get weeded out and fixed early) and during the debugging session (you can look at asserts and see textual reminders of what is known to be true right now)."
+1992328314380578935,"@nonlinear_james @ThePrimeagen Somehow, File Pilot does more and is tremendously faster."
+1992382728617222242,"RT @oxcrowx: &gt; Dragon book
+
+How you know someone does not develop compilers."
+1992562332409466908,"If I had $100,000 to invest in my health, I'd buy these:
+
+- Sauna
+- Hot tub
+- Home gym
+- Air purifier
+- Meal prep
+- Cold plunge
+- Health coach
+- Water flosser
+- Standing desk
+- Under desk treadmill
+- Functional blood work
+- Red light therapy lamp
+- Incandescent light bulbs
+- Reverse osmosis water filter
+- Great mattress and bedding
+- Membership at the best gym in the area
+
+What about you?"
+1992674546286301350,@FitFounder Water flosser does not actually floss. It is kind of a scam.
+1992689004580598019,"RT @slimjimmy_dev: someone got me this mug as a cute gift
+
+but it just makes me angry https://t.co/iOCAybOZA1"
+1992701731684376718,Landmark has 100k viewers for a regular Tarkov stream; Peanut had 100k during the Bungulator War last night. Is Twitch coming back??
+1992702385542791483,@Jonathan_Blow Never underestimate the power of drops
+1992702393512071360,"@unit_accord @ThePrimeagen @ChrisRozenbachs No, asserts are not catchable exceptions, that is the whole point."
+1992707062657351770,@Soviet666 Need to figure out how to do drops in our next game...
+1992816120122966350,"I wonder, for how long are we going to keep seeing Bungulators in Arc Raiders..."

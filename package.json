@@ -1,0 +1,20 @@
+{
+  "name": "tweet-audit",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run ./src/cmd/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "json-2-csv": "^5.5.10"
+  }
+}
