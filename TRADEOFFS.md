@@ -1,6 +1,6 @@
 # Technical Tradeoffs & Design Decisions
 
-## Language Choice: Go
+## Language Choice: 
 
 ## Architecture: Batch Processing with Checkpointing
 
