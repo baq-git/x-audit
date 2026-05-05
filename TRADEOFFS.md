@@ -1,12 +1,8 @@
 # Technical Tradeoffs & Design Decisions
 This is the project that I reprogramming one of small feature that implement in my recent jobs but make it more socilize to use by everyone to filter their post in the X-social media.
 
-<<<<<<< HEAD
-## Language Choice: 
-=======
 ## Language Choice: Typescript with Bun
 I choose Typescript because this is the first statically typed language that I learn and I can write it proficiently. Furthermore, it ensures type safety for Data Models. Secondly, in most of technologies we faced today, there is a faith that Bun is run faster than the other JS environments in I/O systems. Very approriate with small CLI tool in JS ecosystems.
->>>>>>> bfe8dc7 (update TRADEOFFS.md)
 
 The downside of Bun is the stability and the compatiblilty with JS Api although the Typescript is quite mature. The community is small and lack of guiding and bugs fixtures. Bun for Windows OS is under development and face more problems than the others.
 
